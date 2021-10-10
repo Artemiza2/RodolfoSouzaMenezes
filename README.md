@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/RodolfoSouzaMenezes">
   <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api?username=RodolfoSouzaMenezes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoSouzaMenezes&layout=demo&langs_count=7&theme=algolia"/>
+  <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoSouzaMenezes&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodolfo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
