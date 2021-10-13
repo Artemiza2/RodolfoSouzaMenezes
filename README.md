@@ -24,3 +24,9 @@
 </div>
   
 ![Snake animation](https://github.com/RodolfoSouzaMenezes/RodolfoSouzaMenezes/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RodolfoSouzaMenezes/count.svg" />
+</p>
+-->
