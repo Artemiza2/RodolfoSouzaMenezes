@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Espero que gostem do meu perfil</h2>
   <a href="https://github.com/RodolfoSouzaMenezes">
   <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api?username=RodolfoSouzaMenezes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoSouzaMenezes&layout=compact&langs_count=7&theme=algolia"/>
